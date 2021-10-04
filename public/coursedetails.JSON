@@ -64,7 +64,7 @@
         "courseName": "Professional Web Development",
         "courseDetails": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
         "img": "https://www.creativeitinstitute.com/front/images/courses/professional-web-development.png",
-        "rating": 4.9,
+        "rating": 4.3,
         "subscriber": 315,
         "videos": 85,
         "price": 299
@@ -74,7 +74,7 @@
         "courseName": "Android App Development",
         "courseDetails": "With the world going mobile, the importance of apps is increasing day by day. App development hence refers to the creation of applications to be used on mobile devices. Today when we buy a smartphone or a tablet, we can see that it comes with some pre-installed apps for social media or searching or such other purposes. And if we can’t find what we are looking for, we just log on to the app store and download the things we need. The more people buying smartphones, the more the necessity of workable apps. It proves that learning app development is a pretty good career choice today. Start learning from the best in the industry and be your own boss.",
         "img": "https://www.creativeitinstitute.com/front/images/courses/android-app-development.png",
-        "rating": 4.2,
+        "rating": 4.9,
         "subscriber": 85,
         "videos": 60,
         "price": 99
