@@ -1,0 +1,42 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "courseName": "Professional Graphic Design",
+        "courseDetails": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company. Thus it needs to be conceptual and unique to represent a company, brand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh. To know more about the module, take a look in the highlights of the module and get insights of how we are conducting the course.",
+        "img": "https://www.creativeitinstitute.com/front/images/courses/professional-graphic-design.png",
+        "rating": 4.9,
+        "subscriber": 1478,
+        "videos": 60,
+        "price": 99 
+    },
+    {
+        "key": "B062RL8IYK",
+        "courseName": "Professional Web Development",
+        "courseDetails": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
+        "img": "https://www.creativeitinstitute.com/front/images/courses/professional-web-development.png",
+        "rating": 4.9,
+        "subscriber": 315,
+        "videos": 85,
+        "price": 299
+    },
+    {
+        "key": "B082RL8IYK",
+        "courseName": "Digital Marketing",
+        "courseDetails": "Our institute, a leading IT training institute in Bangladesh, has set its eye on providing the necessary support to individuals who want to exploit the opportunity and make their mark in digital marketing. Our digital marketing course will not only enable you to have a good understanding of the fundamentals of digital marketing but also generate a strategy for career growth. To help you understand the market behavior and formulate a productive approach, we have covered all the aspects of digital marketing in our course. After completing the course, you will have an in-depth understanding of SEO & Affiliate Marketing and how to envision the market scenarios and use them to good effect.",
+        "img": "https://www.creativeitinstitute.com/front/images/courses/digital-marketing.png",
+        "rating": 4.9,
+        "subscriber": 515,
+        "videos": 32,
+        "price": 115
+    },
+    {
+        "key": "B172RL8IYK",
+        "courseName": "3D Animation",
+        "courseDetails": "Modeling is generating 3D objects in a certain scene. The next phase is done by positioning and animating. And the last phase, rendering, is the output of the completed result. The techniques used in 3D Animation involves appearance sketching, appearance modeling, arena building, camera setup, texturing, alteration, bonding, and rendering. Cinema 4D, Autodesk MAYA & Autodesk 3ds Max are the names of some of the best 3D animation software. At Our, we highly focus on Autodesk MAYA and teach our students to be the best in the industry.",
+        "img": "https://www.creativeitinstitute.com/front/images/courses/3d-animation.png",
+        "rating": 4.9,
+        "subscriber": 99,
+        "videos": 50,
+        "price": 299
+    }
+]

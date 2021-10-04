@@ -1,0 +1,50 @@
+[
+    {
+        "key": "B001K",
+        "name": "Design",
+        "innerText": "Learn how to design your website. We have a wide range of designing courses from which you can select the best that suits you.",
+        "img": "https://skilify.theuxuidesigner.com/images/svg/pantone.svg",
+        "bgColorLite": "#EFEFF6",
+        "bgColorDark": "#e2ddff"
+    },
+    {
+        "key": "B002K",
+        "name": "Development",
+        "innerText": "Learn how to develop your software and websites. We provide you with a wide range of different development courses that will help you to learn more",
+        "img": "http://skilify.theuxuidesigner.com/images/svg/monitor.svg",
+        "bgColorLite": "#F68C201A",
+        "bgColorDark": "#fae0d0"
+    },
+    {
+        "key": "B003K",
+        "name": "IT & Software",
+        "innerText": "If you want to learn something new in IT and Software, then this is the right place to help you with different IT and Software courses from which you can get the one for you.",
+        "img": "http://skilify.theuxuidesigner.com/images/svg/shake.svg",
+        "bgColorLite": "#BBF0FF80",
+        "bgColorDark": "#bbf0ff"
+    },
+    {
+        "key": "B004K",
+        "name": "Business",
+        "innerText": "If you want to be a successful business owner, our courses will help you do so. Book your course now.",
+        "img": "http://skilify.theuxuidesigner.com/images/svg/briefcase.svg",
+        "bgColorLite": "#CEF6D680",
+        "bgColorDark": "#cef6d6"
+    },
+    {
+        "key": "B005K",
+        "name": "Marketings",
+        "innerText": "In this world, marketing is essential to learn how to do excellent marketing with our courses and get your business on top.",
+        "img": "http://skilify.theuxuidesigner.com/images/svg/volume-up.svg",
+        "bgColorLite": "#CEF6D680",
+        "bgColorDark": "#cef6d6"
+    },
+    {
+        "key": "B006K",
+        "name": "Technology",
+        "innerText": "There are various technologies which you need to learn if you want to stay in the race. Our courses will help you to learn more.",
+        "img": "http://skilify.theuxuidesigner.com/images/svg/cast.svg",
+        "bgColorLite": "#EFEFF6",
+        "bgColorDark": "#e2ddff"
+    }
+]
