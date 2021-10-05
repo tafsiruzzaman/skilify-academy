@@ -161,6 +161,16 @@
     },
     {
         "key": "B172RL8IYK",
+        "courseName": "MikroTik",
+        "courseDetails": "This training course will provide you with the skills to configure a MikroTik RouterOS Router board as a dedicated router, a bandwidth manager, a secure firewall appliance, a simple wireless access point, a VPN Server or Client or an Internet Hotspot concentrator etc. It is a course that covers the basics for those that new to MikroTik Router OS (or is struggling to understand it!) and concentrates on the basics of setting up a MikroTik device.",
+        "img": "https://www.creativeitinstitute.com/front/images/courses/mikrotik.png",
+        "rating": 4.1,
+        "subscriber": 333,
+        "videos": 65,
+        "price": 175
+    },
+    {
+        "key": "B182RL8IYK",
         "courseName": "3D Animation",
         "courseDetails": "Modeling is generating 3D objects in a certain scene. The next phase is done by positioning and animating. And the last phase, rendering, is the output of the completed result. The techniques used in 3D Animation involves appearance sketching, appearance modeling, arena building, camera setup, texturing, alteration, bonding, and rendering. Cinema 4D, Autodesk MAYA & Autodesk 3ds Max are the names of some of the best 3D animation software. At Our, we highly focus on Autodesk MAYA and teach our students to be the best in the industry.",
         "img": "https://www.creativeitinstitute.com/front/images/courses/3d-animation.png",
