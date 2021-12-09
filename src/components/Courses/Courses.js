@@ -27,7 +27,7 @@ const Courses = () => {
     return (
         <div className="container">
             <InputGroup onChange={handleSearch} className="my-3 w-75 mx-auto">
-                <FormControl placeholder="search course"/>
+                <FormControl placeholder="search courses"/>
             </InputGroup>
             <div className="my-4">
                     <Row xs={1} md={2} lg={3} className="gy-4 gx-lg-4">
